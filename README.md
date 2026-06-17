@@ -1,6 +1,8 @@
 # Behavioral Cloning: Snake řízený Transformerem
 ### Semestrální projekt pro předmět Strojové učení (SU)
 
+![main_image](main.png)
+
 Pipeline pro **behaviorální klonování**, ve které se Transformer Encoder učí hrát hru Snake výhradně z lidských záznamů — bez Reinforcement Learningu. Hráč nasbírá data ručním hraním, ta se zpracují a augmentují, a natrénovaný model pak predikuje další akce i detekuje nebezpečné situace.
 
 ---
